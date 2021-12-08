@@ -1,0 +1,13 @@
+flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+scipy
+sklearn
+matplotlib
+pandas
+flasgger
+virtualenv
